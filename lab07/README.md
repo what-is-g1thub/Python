@@ -1,8 +1,8 @@
 # Лабораторная работа 7. Функции (вариант 11)
 
 ## Запуск
-`python main.py`
-`python test_functions.py`
+    python main.py
+    python test_functions.py
 
 ## Описание
 - sum_digits(number) — сумма цифр модуля числа.
