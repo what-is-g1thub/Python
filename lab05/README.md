@@ -1,11 +1,11 @@
 # Лабораторная работа 5. Обработка строк (вариант 11)
 
 ## Запуск
-python normalize.py
-python palindrome.py
-python replace.py
-python variant.py
-python palindrome_loop.py
+    python normalize.py
+    python palindrome.py
+    python replace.py
+    python variant.py
+    python palindrome_loop.py
 
 ## Проверки
 ### normalize.py
