@@ -1,11 +1,11 @@
 # Лабораторная работа 6. Списки (вариант 11)
 
 ## Запуск
-python statistics.py
-python transform.py
-python positions.py
-python variant.py
-python unique.py
+    python statistics.py
+    python transform.py
+    python positions.py
+    python variant.py
+    python unique.py
 
 ## Проверки
 ### statistics.py
